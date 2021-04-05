@@ -15,3 +15,9 @@ This is a realtime chat application built using react-native and firebase databa
 
 > ### Packages to be installed:
 > `npm install`:
+ "@react-navigation/native": "^5.9.2"
+ "@react-navigation/stack": "^5.14.2"
+ "expo-google-app-auth": "^8.1.4"     // For Google Authentication.
+ "expo-status-bar": "~1.0.3"
+ "firebase": "7.9.0"
+ "react-google-button": "^0.7.2"
