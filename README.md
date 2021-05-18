@@ -1,16 +1,8 @@
-# Chat-App-react (Mobile-App)
+# Chat-App-react (Mobile-App) 📱
 This is a realtime chat application built using react-native and firebase database.
 <hr/>
-<img src="chat_app1.jpg" height="500"/>
-<img src="chat_app2.jpg" height="500"/>
-<hr/>
-<img src="chat_app3.jpg" height="500"/>
-<hr/>
-<img src="chat_app4.jpg" height="500"/>
-<hr/>
-<img src="chat_app5.jpg" height="500"/>
 
-> ## Creating an Expo-React-Native App: 
+>## Creating an Expo-React-Native App: 
 `npx create-react-native-app --template`
 
 > ### Packages to be installed:
@@ -26,3 +18,16 @@ This is a realtime chat application built using react-native and firebase databa
     "firebase": "7.9.0"
    
     "react-google-button": "^0.7.2"
+
+<hr/>
+<details>
+<summary>Code output:</summary>
+<img src="chat_app1.jpg" height="500"/>
+<img src="chat_app2.jpg" height="500"/>
+<hr/>
+<img src="chat_app3.jpg" height="500"/>
+<hr/>
+<img src="chat_app4.jpg" height="500"/>
+<hr/>
+<img src="chat_app5.jpg" height="500"/>
+</details>
